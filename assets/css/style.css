@@ -28,7 +28,7 @@ ul {
 
 li {
     text-align: center;
-    padding: 0.75em;
+    padding: 0.4em;
     display: flex;
     flex-direction: column;
     border: 1px solid #BEC1BB;
@@ -37,7 +37,7 @@ li {
 h5 {
     color: #1B1F21;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 1rem;
 }
 
 img {
@@ -66,8 +66,8 @@ img {
 }
 
 button {
-    padding: 1em 3.5em;
-    font-size: 16px;
+    padding: 1em 2.5em;
+    font-size: 1rem;
     letter-spacing: 1px;
     color: #FFF;
     background-color: #a491d2;
@@ -83,7 +83,7 @@ button:focus {
 }
 
 p {
-    font-size: 12px;
+    font-size: .75rem;
     padding-top: 0.2em;
 }
 
@@ -99,7 +99,7 @@ p {
 }
 
 .infocontacto p {
-    font-size: 14px;
+    font-size: 0.8rem;
     color: black;
 }
 
@@ -117,7 +117,7 @@ p {
 }
 
 i {
-    color: #BEC1BB;
+    color: #e7eae4;
 }
 
 .secciongrande {
@@ -127,6 +127,7 @@ i {
     align-items: center;
     width: 100%;
     padding-bottom: 6em;
+    background-color: #f7f7f7;
 }
 
 .secciongrande > img {
@@ -134,7 +135,7 @@ i {
 }
 
 h1 {
-    padding-top: 0.6em;
+    padding-top: 0.4em;
     font-size: 45px;
 }
 
