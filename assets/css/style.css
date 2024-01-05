@@ -62,11 +62,11 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 1em 1.5em;
+    padding: 1em 2.5em;
     font-size: 1rem;
     color: #FFF;
     background-color: #a491d2;
-    text-decoration: none;
+    text-decoration: solid;
 }
 
 .btn {
